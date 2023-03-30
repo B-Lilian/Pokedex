@@ -1,6 +1,7 @@
 
 import PropTypes from "prop-types";
 
+
 function PokemonCard(props) {
   const pokemon = props.pokemon;
   console.log(props)
